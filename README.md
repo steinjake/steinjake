@@ -9,7 +9,7 @@ company and worked on deals and AI go-to-market at McKinsey & QuantumBlack.
   portfolio rules, backtest on a deterministic engine, compare versions. Built with two
   teammates at Test Flight, the Glasswing Ventures hackathon (Sept 2026). I owned the
   frontend, product workflow and demo. [Live demo](https://crt-web-hazel.vercel.app)
-- **Life Wiki:** one shared
+- **[Life Wiki](https://github.com/cojakestein-sketch/life-wiki-template):** one shared
   context layer for my AI agents: a single operating contract every tool loads, privacy
   levels enforced in git, and sourced pages instead of chat memory.
 
